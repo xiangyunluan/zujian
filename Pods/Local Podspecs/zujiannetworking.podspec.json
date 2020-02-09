@@ -1,0 +1,22 @@
+{
+  "name": "zujiannetworking",
+  "version": "0.1.0",
+  "summary": "A short description of zujiannetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiangyunluan/zujiannetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiangyunluan": "luanxiangyun@126.com"
+  },
+  "source": {
+    "git": "https://github.com/xiangyunluan/zujiannetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "zujiannetworking/Classes/**/*"
+}

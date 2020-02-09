@@ -1,0 +1,6 @@
+framework module zujiannetworking {
+  umbrella header "zujiannetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
